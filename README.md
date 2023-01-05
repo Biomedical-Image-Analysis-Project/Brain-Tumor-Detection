@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection
-University course project. Dataset exploration, dataset preprocessing and deep learning models evaluation for brain tumor detection.
+University course project. Dataset exploration, dataset preprocessing and deep learning models evaluation for brain tumor detection. Project is organized to run on Google Colaboratory.
 
 Report paper is in ```docs```.
 
