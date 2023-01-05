@@ -1,6 +1,8 @@
 # Brain-Tumor-Detection
 University course project. Dataset exploration, dataset preprocessing and deep learning models evaluation for brain tumor detection.
 
+Report paper is in ```docs```.
+
 Task: Image Classification
 
 Dataset: B35H Brain Tumor Dataset
