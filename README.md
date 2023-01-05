@@ -1,5 +1,7 @@
 # Brain-Tumor-Detection
-University course project. Evaluating deep learning models for brain tumor detection.
+University course project. Dataset exploration, dataset preprocessing and deep learning models evaluation for brain tumor detection.
+
+Task: Image Classification
 
 Dataset: B35H Brain Tumor Dataset
 
