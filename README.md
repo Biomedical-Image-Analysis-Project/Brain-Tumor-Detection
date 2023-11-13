@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection
+# Brain tumor detection from MRI images using deep models
 University course project. Dataset exploration, dataset preprocessing and deep learning models evaluation for brain tumor detection. Result replication with notebooks is meant to be run on Google Colaboratory.
 
 Report paper is in ```docs```.
